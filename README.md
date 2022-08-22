@@ -1,7 +1,10 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&section=header)
 
-  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20parkproG!&fontSize=90)
+# **hello parkproG**      
+
+
+
+### 📚 STACK 📚
 
 
 <p align="center">
