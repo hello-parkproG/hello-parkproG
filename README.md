@@ -5,7 +5,7 @@
 
 
 <p align="center">
- <a href="https://parkpro-dev.tistory.com/"><img src="https://img.shields.io/badge/ TECH BLOG-656565?style=flat-square&logo=Tistory&logoColor=white&link=https://parkpro-dev.tistory.com/" height="30px"/></a>&nbsp; <a><img src="https://img.shields.io/badge/ INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="30px"/></a>
+ <a href="https://velog.io/@hello-parkpro"><img src="https://img.shields.io/badge/ TECH BLOG-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@hello-parkpro" height="30px"/></a>&nbsp; <a><img src="https://img.shields.io/badge/ INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="30px"/></a>
 </p>
 
 
